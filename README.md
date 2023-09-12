@@ -1,6 +1,5 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This a custom hook that provides a good knowledge to use a hook that can create a counter with a delete, reset and add button.
 
 Currently, two official plugins are available:
 
